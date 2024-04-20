@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+.country-group {
+  margin-bottom: 20px;
+}
+
+.country-group-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.country-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.country-list-item {
+  margin-bottom: 5px;
+}
+
+.countries{
+  display: grid;
+  grid-template-rows: auto;
+}
